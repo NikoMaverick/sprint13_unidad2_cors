@@ -4,10 +4,10 @@ Este proyecto utiliza Node.js, Express, y Axios para acceder a la API de Rick an
 
 ## Pasos para ejecutar el proyecto
 
-1. **Instalación de dependencias:**
+1. **Instalación de dependencias:** OK
    npm install
 
-## Rutas del servidor
+## Rutas del servidor 
 1. Obtener todos los personajes:
 Endpoint: http://localhost:3000/characters
 Método: GET
